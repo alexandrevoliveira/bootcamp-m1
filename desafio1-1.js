@@ -1,3 +1,5 @@
+// calcula imc
+
 const nome = 'Alexandre Victor de Araujo Oliveira'
 const peso = 72
 const altura = 1.84
